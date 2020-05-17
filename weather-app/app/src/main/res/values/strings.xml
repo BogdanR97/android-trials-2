@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="server_title">SERVER</string>
+    <string name="server_port_number">Server Port Number</string>
+    <string name="connect_server_btn">Connect</string>
+    <string name="client_title">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="city">City</string>
+    <string name="get_forecast">Get Weather Forecast</string>
+    <string-array name="metrics_array">
+        <item>temperature</item>
+        <item>wind speed</item>
+        <item>general</item>
+        <item>pressure</item>
+        <item>humidity</item>
+    </string-array>
+
+</resources>
